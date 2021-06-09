@@ -20,8 +20,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=arthurhw&show_icons=true" alt="ArthurHW"/> 
 
 <p align="center">
-<a href="https://codepen.io/arthuhw" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="Arthur" height="20" width="20" /></a>
+<a href="https://codepen.io/arthurhw" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="Arthur" height="20" width="20" /></a>
 <a href="https://www.linkedin.com/in/arthur-h-wiebusch-b163881a0/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Arthur" height="20" width="20" /></a>
-<a href="https://stackoverflow.com/maykbrito" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Arthur" height="20" width="20" /></a>
 </p>
 
