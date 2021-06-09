@@ -1,7 +1,5 @@
 <h1 align="center">Hi  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Arthur Henrique Wiebusch</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arthuhw" alt="arthurhw" /> </p>
-
 - 🔭 I’m currently not working
 
 - 👨‍💻 All of my projects are here on github, and some of them on my [Github Pages](https://arthurhw.github.io)
