@@ -11,14 +11,15 @@
 - 📫 How to reach me **arturh07@gmail.com**
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
 </p>
 <img src="https://github-readme-stats.vercel.app/api?username=arthurhw&show_icons=true" alt="ArthurHW"/> 
 
 <p align="center">
-<a href="https://codepen.io/arthurhw" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="Arthur" height="20" width="20" /></a>
-<a href="https://www.linkedin.com/in/arthur-h-wiebusch" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Arthur" height="20" width="20" /></a>
+  <a href="mailto:arturh07@gmail.com" target="_blank"><img src="https://image.flaticon.com/icons/png/512/281/281769.png" alt="Gmail" height="30" width="30"></a>
+  <a href="https://codepen.io/arthurhw" target="_blank"><img src="https://image.flaticon.com/icons/png/512/2111/2111351.png" alt="Codepen" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/arthur-h-wiebusch" target="_blank"><img src="https://image.flaticon.com/icons/png/512/1384/1384874.png" alt="Linkedin" height="30" width="30"/></a>
 </p>
 
