@@ -8,6 +8,8 @@
 
 - 🤔 I aspire to become a fullstack developer
 
+- 🏠 I live in Teutônia, RS - Brasil
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
