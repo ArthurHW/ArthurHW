@@ -8,8 +8,6 @@
 
 - 🤔 I aspire to become a fullstack developer
 
-- 📫 How to reach me **arturh07@gmail.com**
-
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
@@ -19,7 +17,6 @@
 
 <p align="center">
   <a href="mailto:arturh07@gmail.com" target="_blank"><img src="https://image.flaticon.com/icons/png/512/281/281769.png" alt="Gmail" height="30" width="30"></a>
-  <a href="https://codepen.io/arthurhw" target="_blank"><img src="https://image.flaticon.com/icons/png/512/2111/2111351.png" alt="Codepen" height="30" width="30" /></a>
   <a href="https://www.linkedin.com/in/arthur-h-wiebusch" target="_blank"><img src="https://image.flaticon.com/icons/png/512/1384/1384874.png" alt="Linkedin" height="30" width="30"/></a>
 </p>
 
