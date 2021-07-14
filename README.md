@@ -1,10 +1,10 @@
 <h1 align="center">Hi  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Arthur Henrique Wiebusch</h1>
 
-- 🔭 I’m currently not working
+- 🔭 I’m currently working at [Tezus](https://github.com/tezusecommerce)
 
 - 👨‍💻 All of my projects are here on github, and some of them on my [Github Pages](https://arthurhw.github.io)
 
-- 🌱 I’m currently learning HTML, CSS, Javascript
+- 🌱 I’m currently learning HTML, CSS, Javascript, Docker and Magento
 
 - 🤔 I aspire to become a fullstack developer
 
