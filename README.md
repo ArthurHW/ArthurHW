@@ -15,7 +15,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=arthurhw&show_icons=true" alt="ArthurHW"/> 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arthurhw](https://github.com/anuraghazra/github-readme-stats)]
+<img src="https://github-readme-stats.vercel.app/api?username=arthurhw&show_icons=true&count_private=true" alt="ArthurHW"/>
 
 <p align="center">
   <a href="mailto:arturh07@gmail.com" target="_blank"><img src="https://image.flaticon.com/icons/png/512/281/281769.png" alt="Gmail" height="30" width="30"></a>
