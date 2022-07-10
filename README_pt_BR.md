@@ -4,12 +4,12 @@
 <table align="center">
   <tr>
     <td>
-      <strong>
         <a href="https://github.com/ArthurHW">🇺🇸 English</a>
-      </strong>
     </td>
     <td>
-      <a href="README_pt_BR.md">🇧🇷 Português</a>
+      <strong>
+        <a href="README_pt_BR.md">🇧🇷 Português</a>
+      </strong>
     </td>
   </tr>
 </table>
